@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>http://www.fahluz.com/</loc>
+    <lastmod>2019-10-08</lastmod>
+    <image:image>
+      <image:loc>http://fahluz.com/https://drive.google.com/uc?id=1Vl0KHQXNKnhcVT3NyFu3yNpb9ZHbVRA4</image:loc>
+      <image:title>Earrings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://fahluz.com/https://drive.google.com/uc?id=1K_NM9GqTxt8e1xQCEcHqbCvJ8LPn5WNH</image:loc>
+      <image:title>Bracelets</image:title>
+    </image:image>
+    image:image>
+      <image:loc>http://fahluz.com/https://drive.google.com/uc?id=1A2DLYnNtgqUnSaUY_rgQu46qG1JbVcyI</image:loc>
+      <image:title>Necklaces</image:title>
+    </image:image>
+  </url>
+</urlset>
